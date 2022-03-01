@@ -29,7 +29,5 @@ class ListNode:
 
 
 
-b = ListNode()
-print(b.val)
-print(b.next)
+
 
